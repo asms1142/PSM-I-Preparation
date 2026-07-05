@@ -17,3 +17,4 @@ Pass the PSM-I certification exam.
 | Date | Topic | Status |
 |------|--------|--------|
 | 06-Jul-2026 | Repository Setup | ✅ |
+| 06-Jul-2026 | Day 01: Agile Manifesto | ✅ |

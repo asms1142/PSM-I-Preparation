@@ -1,5 +1,3 @@
-Agile Manifesto
----------------------
 Manifesto for Agile Software Development
 
 
