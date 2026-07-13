@@ -1,0 +1,34 @@
+Scrum uses the Sprint as a containing event for four formal events: 
+
+Sprint Planning
+Daily Scrum
+Sprint Review
+Sprint Retrospective
+
+These events build the empirical Scrum pillars: 
+transparency (making work visible)
+inspection (evaluating progress) and 
+adaptation (changing course to improve).
+
+The four formal events and how they apply these pillars include:
+
+1. Sprint Planning
+
+What it is: A meeting to launch the Sprint.
+The Goal: Decide what to build and how to build it.
+Inspect & Adapt: The team inspects the Product Backlog and adapts it into the Sprint Backlog to define the Sprint Goal.
+
+2. Daily Scrum
+What it is: A quick, 15-minute daily team meeting.
+The Goal: Check if the team is on track for their goals.
+Inspect & Adapt: The team inspects progress toward the Sprint Goal and adapts the daily plan.
+
+3. Sprint Review
+What it is: An informal meeting at the end of the Sprint.
+The Goal: Share what the team built with stakeholders.
+Inspect & Adapt: The team inspects the Increment (the work done) and adapts the Product Backlog for future Sprints based on feedback.
+
+4. Sprint Retrospective
+What it is: A meeting to look at how the team worked.
+The Goal: Improve how the team works together.
+Inspect & Adapt: The team inspects their methods, people, and tools, then adapts by creating plans for improvement in the next Sprint.
